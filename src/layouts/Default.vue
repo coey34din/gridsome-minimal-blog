@@ -4,7 +4,7 @@
     <div class="footer">
       <p>
         Built with
-        <a class="link" href="//gridsome.org">Gridsome</a>
+        <a class="link" href="//gridsome.org">TESSS Gridsome</a>
         & Made with ❤️ by
         <a class="link" href="//twitter.com/lauragift21">Gift Egwuenu</a>
       </p>
