@@ -16,7 +16,7 @@ export default function (Vue, { router, head, isClient }) {
   
     
   }),
-    Vue.use(BootstrapVue),
+    Vue.use(BootstrapVue)
 
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
