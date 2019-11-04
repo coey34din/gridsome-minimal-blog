@@ -9,10 +9,6 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 // Then add it to export function
 
-export default function (Vue) {
-  Vue.use(BootstrapVue)
-}
-
 export default function (Vue, { router, head, isClient }) {
   head.link.push({
     rel: 'stylesheet',
