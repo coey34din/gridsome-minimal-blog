@@ -10,11 +10,11 @@ export default function (Vue, { router, head, isClient }) {
   },
   {
     rel: 'stylesheet',
-    href: '~/assets/css/style.css'
+    href: '/assets/css/style.css'
   },
   {
     rel: 'stylesheet',
-    href: '~/assets/css/boostrap.min.css'
+    href: '/assets/css/boostrap.min.css'
   }
   ),
 
